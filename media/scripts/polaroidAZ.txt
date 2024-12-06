@@ -1,0 +1,24 @@
+module PolaroidAZComp {
+    imports {
+        Base
+    }
+    item PolaroidAZ {
+        DisplayCategory 	= Clothing,
+        Type				= Clothing,
+        DisplayName			= Polaroid Camera,
+        ClothingItem 		= Polaroid,
+        BodyLocation 		= Necklace_Long,
+        Icon				= Camera,
+        Weight				= 0.2,
+        WorldStaticModel    = Camera_Ground,
+        Tags                = Camera,
+    }
+
+    recipe Change to Wearable {
+        Polaroids.PolaroidCamera,
+
+        Result:PolaroidAZ,
+        Time:5,
+        AnimNode:Craft,
+    }
+}

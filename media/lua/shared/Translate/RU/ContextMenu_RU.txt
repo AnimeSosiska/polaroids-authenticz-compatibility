@@ -1,0 +1,4 @@
+ContextMenu_RU = {
+    ContextMenu_Polaroids_TakePhoto = "Сделать фото",
+    ContextMenu_Polaroids_PrintPolaroid = "Напечатать фото"
+}

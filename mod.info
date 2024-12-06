@@ -1,0 +1,6 @@
+name=Polaroids - Authentic Compatibility
+id=PolaroidsAZcompatibility
+description=Now AZ cams can take photos, and polaroids can be attached!
+require=Polaroids
+authors=AnimeAss
+poster=poster.png

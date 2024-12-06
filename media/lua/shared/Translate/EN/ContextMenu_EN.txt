@@ -1,0 +1,4 @@
+ContextMenu_EN = {
+    ContextMenu_Polaroids_TakePhoto = "Take Photo",
+    ContextMenu_Polaroids_PrintPolaroid = "Print Polaroid"
+}
